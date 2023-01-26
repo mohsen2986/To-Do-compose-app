@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">TO-DO compose</string>
+    <string name="add_button">Add button</string>
+    <string name="search_tasks">Search Tasks</string>
+    <string name="delete_all" tools:ignore="ExtraTranslation">Delete All</string>
+    <string name="delete_task_confirmation">Are you sure you want to remote \'1$s\'</string>
+    <string name="delete_task">Remove \'1$s\'</string>
+</resources>
